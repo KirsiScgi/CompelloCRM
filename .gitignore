@@ -1,0 +1,6 @@
+.alpackages/*
+.vscode/*
+!.vscode/settings.json
+!.vscode/CodeAnalysisExeptions.json
+*.code-workspace
+*.app

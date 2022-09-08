@@ -1,0 +1,11 @@
+{
+  "al.defaultLaunchConfigurationName": null,
+  "al.enableCodeAnalysis": true,
+  "al.ruleSetPath": ".vscode/CodeAnalysisExeptions.json",
+  "al.codeAnalyzers": [
+    "${CodeCop}",
+    "${PerTenantExtensionCop}",
+    "${AppSourceCop}",
+    "${UICop}"
+  ]
+}

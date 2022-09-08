@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="CompelloCRM">
+    <body>
+      <group id="body">
+        <trans-unit id="PageExtension 313888425 - Control 739115720 - Property 2001309823" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3366438065">
+          <source>GUID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CRMAccountList - Control AccountId - Property Tooltip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 313888425 - Control 739115720 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3366438065">
+          <source>Account Id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CRMAccountList - Control AccountId - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 269915171 - Action 3555018300 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>Update Last Trans. Date before sending to Dataverse</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CRMCustCard - Action COMCRMCustDate - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 269915171 - Action 3555018300 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>Update last Trans. Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CRMCustCard - Action COMCRMCustDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 269915171 - Action 87478357 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>Update Last Trans. Date before sending to Dataverse</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CRMCustCard - Action COMCRMRunJob - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 269915171 - Action 87478357 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>Update all customers</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CRMCustCard - Action COMCRMRunJob - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 269915171 - Control 4201536422 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>Latest Transaction Date on the customer</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension CRMCustCard - Control CRMLastPostDate - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 947860199 - Field 1509101644 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2081291623">
+          <source>Cust Transaction Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CRMAcc - Field cust_lastdate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4125093780 - Field 675683477 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
+          <source>Do not use this field</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CRMCustomer - Field COMCRMLastPostDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4125093780 - Field 4201536422 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
+          <source>Siste transaksjonsdato kunde</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CRMCustomer - Field CRMLastPostDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4125093780 - Field 4182200832 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
+          <source>Siste transaksjonsdato</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CRMCustomer - Field CRMLastPostLookup - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

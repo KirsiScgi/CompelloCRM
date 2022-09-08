@@ -1,0 +1,30 @@
+{
+  "id": "78800ba8-3195-47d2-9764-3709a25ccd79",
+  "name": "CompelloCRM",
+  "publisher": "CGI",
+  "brief": "Integration between BC - CRM",
+  "description": "Integration between BC - CRM",
+  "version": "1.0.0.12",
+  "privacyStatement": "http://www.cgi.com",
+  "EULA": "http://www.cgi.com",
+  "help": "http://www.cgi.com",
+  "url": "http://www.cgi.com",
+  "logo": "Images/AppLogo.png",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "16.0.0.0",
+  "application": "16.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 50300
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://www.cgi.com/norway/apphelp/CompelloCRM",
+  "showMyCode": true,
+  "features": [
+    "TranslationFile"
+  ],
+  "target": "Cloud",
+  "runtime": "5.0"
+}

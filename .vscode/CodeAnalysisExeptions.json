@@ -1,0 +1,41 @@
+{
+  "name": "Exeption Rules",
+  "description": "Rules that makes more noise than help",
+  "rules": [
+    {
+      "id": "AA0214",
+      "action": "Hidden",
+      "justification": "The record {0} should be modified before saving to the database."
+    },
+    {
+      "id": "AA0218",
+      "action": "Hidden",
+      "justification": "The Tooltip property for {0} {1} must be filled."
+    },
+    {
+      "id": "PTE0005",
+      "action": "Hidden",
+      "justification": "App.json 'target' property must not be set to 'Internal' or 'OnPrem'."
+    },
+    {
+      "id": "AS0053",
+      "action": "Hidden",
+      "justification": "The compilation target is set to '{0}', but it must be set to 'Cloud' or 'Extension'."
+    },
+    {
+      "id": "AA0232",
+      "action": "Hidden",
+      "justification": "The FlowField yy of table should be added to the SIFT key."
+    },
+    {
+      "id": "AS0084",
+      "action": "Hidden",
+      "justification": "The range is not valid"
+    },
+    {
+    "id": "AS0054",
+    "action": "Hidden",
+    "justification": "The AppSourceCop configuration must specify one of the following properties: 'mandatorySuffix', 'mandatoryPrefix', or 'mandatoryAffixes'"
+    }
+  ]
+}
